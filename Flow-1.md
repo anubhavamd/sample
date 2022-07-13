@@ -21,5 +21,6 @@ flowchart LR
     click Install-Binaries href "https://github.com/anubhavamd/Deep-Learning-Updated#5121-option-1-installing-binaries"
     click Building-from-source href "https://github.com/anubhavamd/Deep-Learning-Updated#5122-option-2-building-from-source"
     click Docker href "https://github.com/anubhavamd/Deep-Learning-Updated#5123-option-3-use-docker"
+    click MIGraphX-Example href "https://github.com/anubhavamd/Deep-Learning-Updated#513-migraphx-example"
     
 ```
