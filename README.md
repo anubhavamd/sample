@@ -3,6 +3,13 @@ flowchart LR
     Inferencing-->MIGraphX
     MIGraphX-->MIGraphX-Installation
     MIGraphX-Installation--> Install-Binaries
+    MIGraphX-Installation--> Building-from-source
+    MIGraphX-Installation--> Docker
+    Install-Binaries --> MIGraphX-Example
+    Building-from-source --> MIGraphX-Example
+    Docker --> MIGraphX-Example
+    MIGraphX-Example--> MIGraphX-Python-API
+    MIGraphX-Example--> MIGraphX-C++-API
     MIGraphX--> Tuning-GraphX
     Tuning-GraphX --> Tuned
     Tuning-GraphX --> Untunned
