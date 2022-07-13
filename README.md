@@ -1,7 +1,7 @@
 ```mermaid
 flowchart LR
-    Inferencing-->MIGraphX
-    MIGraphX-->MIGraphX-Installation
+    Inferencing-->MIGraphX-Introduction
+    MIGraphX-Introduction-->MIGraphX-Installation
     MIGraphX-Installation--> Install-Binaries
     MIGraphX-Installation--> Building-from-source
     MIGraphX-Installation--> Docker
@@ -10,7 +10,7 @@ flowchart LR
     Docker --> MIGraphX-Example
     MIGraphX-Example--> MIGraphX-Python-API
     MIGraphX-Example--> MIGraphX-C++-API
-    MIGraphX--> Tuning-GraphX
+    MIGraphX-Introduction--> Tuning-GraphX
     Tuning-GraphX --> Tuned
     Tuning-GraphX --> Untunned
     
