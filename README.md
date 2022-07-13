@@ -1,10 +1,7 @@
 ```mermaid
 flowchart LR
-    A-->B
+    Inferencing-->B
     B-->C
     C-->D
-    click A callback "Tooltip for a callback"
-    click B "https://www.github.com" "This is a tooltip for a link"
-    click A call callback() "Tooltip for a callback"
-    click B href "https://www.github.com" "This is a tooltip for a link"
+    click Inferencing href "https://github.com/anubhavamd/Deep-Learning-Updated#51-inferencing"
 ```
