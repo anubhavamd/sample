@@ -22,5 +22,7 @@ flowchart LR
     click Building-from-source href "https://github.com/anubhavamd/Deep-Learning-Updated#5122-option-2-building-from-source"
     click Docker href "https://github.com/anubhavamd/Deep-Learning-Updated#5123-option-3-use-docker"
     click MIGraphX-Example href "https://github.com/anubhavamd/Deep-Learning-Updated#513-migraphx-example"
+    click MIGraphX-Python-API href "https://github.com/anubhavamd/Deep-Learning-Updated#5131-migraphx-python-api"
+    click MIGraphX-C++-API href "https://github.com/anubhavamd/Deep-Learning-Updated#5132-migraphx-c-api"
     
 ```
