@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+'''<!DOCTYPE html>
 <!-- saved from url=(0035)https://flowchart.framer.website/#2 -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
@@ -922,4 +922,4 @@
 <line x1="73.7678" y1="41.7678" x2="42.7678" y2="72.7678" stroke="black" stroke-width="5"></line>
 <line y1="-2.5" x2="43.8406" y2="-2.5" transform="matrix(0.707107 0.707107 0.707107 -0.707107 77 40)" stroke="black" stroke-width="5"></line>
 <rect x="1.5" y="1.5" width="146" height="146" rx="73" stroke="black" stroke-width="3"></rect>
-</svg></div></div></body></html>
+</svg></div></div></body></html>'''
