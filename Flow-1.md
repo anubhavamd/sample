@@ -16,5 +16,6 @@ flowchart LR
     
     
     click Inferencing href "https://github.com/anubhavamd/Deep-Learning-Updated#51-inferencing"
-    click MIGraphX href "https://github.com/anubhavamd/Deep-Learning-Updated#511-migraphx-introduction"
+    click MIGraphX-Introduction href "https://github.com/anubhavamd/Deep-Learning-Updated#511-migraphx-introduction"
+    click MIGraphX-Installation href "https://github.com/anubhavamd/Deep-Learning-Updated#512-migraphx-installation"
 ```
