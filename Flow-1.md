@@ -24,5 +24,8 @@ flowchart LR
     click MIGraphX-Example href "https://github.com/anubhavamd/Deep-Learning-Updated#513-migraphx-example"
     click MIGraphX-Python-API href "https://github.com/anubhavamd/Deep-Learning-Updated#5131-migraphx-python-api"
     click MIGraphX-C++-API href "https://github.com/anubhavamd/Deep-Learning-Updated#5132-migraphx-c-api"
+    click Tuning-GraphX href "https://github.com/anubhavamd/Deep-Learning-Updated#514-tuning-migraphx"
+    click Tuned href "https://github.com/anubhavamd/Deep-Learning-Updated#tuned"
+    click Untunned href "https://github.com/anubhavamd/Deep-Learning-Updated#untuned"
     
 ```
